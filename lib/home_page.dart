@@ -22,9 +22,9 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         elevation: 10.0,
         backgroundColor: Colors.pink,
-        leading: Icon(
+        leading: const Icon(
           Icons.menu,
-        ),
+        ), //TODO: edit the app name
         title: Text("First App"),
         actions: [
           IconButton(
