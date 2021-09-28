@@ -1,6 +1,6 @@
-# first_project
+# my_first_flutter_project
 
-First Flutter project.
+sign in & Register screens with Flutter .
 
 ## Getting Started
 
