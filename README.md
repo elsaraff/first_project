@@ -2,6 +2,7 @@
 
 sign in & Register screens with Flutter .
 
-![alt text](screenshots/1.jpeg )
+![alt text](screenshots/1.jpg )
 
-![alt text](screenshots/2.jpeg )
+![alt text](screenshots/2.jpg )
+
